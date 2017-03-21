@@ -1,0 +1,215 @@
+Loading dataset from ../ByFamilyImagesWidth.pkl ...
+[1] Average acurracy: 0.2437 (27.919134 s)
+>>> [1] Best acurracy: 0.2437
+[2] Average acurracy: 0.3772 (71.093904 s)
+>>> [2] Best acurracy: 0.3772
+[3] Average acurracy: 0.5122 (16.349317 s)
+>>> [3] Best acurracy: 0.5122
+[4] Average acurracy: 0.5993 (10.833246 s)
+>>> [4] Best acurracy: 0.5993
+[5] Average acurracy: 0.6548 (12.011314 s)
+>>> [5] Best acurracy: 0.6548
+[6] Average acurracy: 0.6897 (12.000697 s)
+>>> [6] Best acurracy: 0.6897
+[7] Average acurracy: 0.6955 (12.504208 s)
+>>> [7] Best acurracy: 0.6955
+[8] Average acurracy: 0.7208 (12.146763 s)
+>>> [8] Best acurracy: 0.7208
+[9] Average acurracy: 0.7356 (12.738440 s)
+>>> [9] Best acurracy: 0.7356
+[10] Average acurracy: 0.7460 (13.065941 s)
+>>> [10] Best acurracy: 0.7460
+[11] Average acurracy: 0.7431 (13.639542 s)
+[12] Average acurracy: 0.7587 (13.498298 s)
+>>> [12] Best acurracy: 0.7587
+[13] Average acurracy: 0.7677 (14.114920 s)
+>>> [13] Best acurracy: 0.7677
+[14] Average acurracy: 0.7704 (14.426329 s)
+>>> [14] Best acurracy: 0.7704
+[15] Average acurracy: 0.7651 (15.504301 s)
+[16] Average acurracy: 0.7714 (14.921186 s)
+>>> [16] Best acurracy: 0.7714
+[17] Average acurracy: 0.7757 (15.330253 s)
+>>> [17] Best acurracy: 0.7757
+[18] Average acurracy: 0.7738 (15.592031 s)
+[19] Average acurracy: 0.7857 (16.248004 s)
+>>> [19] Best acurracy: 0.7857
+[20] Average acurracy: 0.7815 (16.035300 s)
+[21] Average acurracy: 0.7884 (16.763163 s)
+>>> [21] Best acurracy: 0.7884
+[22] Average acurracy: 0.7897 (17.064289 s)
+>>> [22] Best acurracy: 0.7897
+[23] Average acurracy: 0.7904 (17.747041 s)
+>>> [23] Best acurracy: 0.7904
+[24] Average acurracy: 0.7869 (17.259539 s)
+[25] Average acurracy: 0.7880 (18.120073 s)
+[26] Average acurracy: 0.7891 (18.154938 s)
+[27] Average acurracy: 0.7960 (18.785446 s)
+>>> [27] Best acurracy: 0.7960
+[28] Average acurracy: 0.7958 (18.648724 s)
+[29] Average acurracy: 0.7929 (19.281869 s)
+[30] Average acurracy: 0.7966 (19.573586 s)
+>>> [30] Best acurracy: 0.7966
+[31] Average acurracy: 0.7989 (20.180584 s)
+>>> [31] Best acurracy: 0.7989
+[32] Average acurracy: 0.8013 (19.865465 s)
+>>> [32] Best acurracy: 0.8013
+[33] Average acurracy: 0.8043 (20.531832 s)
+>>> [33] Best acurracy: 0.8043
+[34] Average acurracy: 0.7971 (20.918607 s)
+[35] Average acurracy: 0.8046 (21.310264 s)
+>>> [35] Best acurracy: 0.8046
+[36] Average acurracy: 0.8020 (21.244188 s)
+[37] Average acurracy: 0.8013 (21.839216 s)
+[38] Average acurracy: 0.8020 (22.065594 s)
+[39] Average acurracy: 0.8023 (22.996667 s)
+[40] Average acurracy: 0.8046 (22.370244 s)
+[41] Average acurracy: 0.8022 (23.087213 s)
+[42] Average acurracy: 0.8071 (23.276702 s)
+>>> [42] Best acurracy: 0.8071
+[43] Average acurracy: 0.8090 (24.035102 s)
+>>> [43] Best acurracy: 0.8090
+[44] Average acurracy: 0.8075 (24.211176 s)
+[45] Average acurracy: 0.8098 (24.423813 s)
+>>> [45] Best acurracy: 0.8098
+[46] Average acurracy: 0.8068 (24.662916 s)
+[47] Average acurracy: 0.8088 (25.333895 s)
+[48] Average acurracy: 0.8120 (24.889592 s)
+>>> [48] Best acurracy: 0.8120
+[49] Average acurracy: 0.8137 (26.048743 s)
+>>> [49] Best acurracy: 0.8137
+[50] Average acurracy: 0.8085 (25.966297 s)
+[51] Average acurracy: 0.8074 (26.772460 s)
+[52] Average acurracy: 0.8140 (26.731834 s)
+>>> [52] Best acurracy: 0.8140
+[53] Average acurracy: 0.8137 (26.947523 s)
+[54] Average acurracy: 0.8132 (27.165509 s)
+[55] Average acurracy: 0.8129 (28.290233 s)
+[56] Average acurracy: 0.8139 (28.577693 s)
+[57] Average acurracy: 0.8133 (28.541674 s)
+[58] Average acurracy: 0.8157 (28.487262 s)
+>>> [58] Best acurracy: 0.8157
+[59] Average acurracy: 0.8169 (30.127774 s)
+>>> [59] Best acurracy: 0.8169
+[60] Average acurracy: 0.8131 (30.371693 s)
+[61] Average acurracy: 0.8125 (32.022884 s)
+[62] Average acurracy: 0.8144 (29.909194 s)
+[63] Average acurracy: 0.8123 (30.805207 s)
+[64] Average acurracy: 0.8120 (30.650945 s)
+[65] Average acurracy: 0.8174 (31.514490 s)
+>>> [65] Best acurracy: 0.8174
+[66] Average acurracy: 0.8129 (30.896673 s)
+[67] Average acurracy: 0.8136 (31.544916 s)
+[68] Average acurracy: 0.8147 (31.339917 s)
+[69] Average acurracy: 0.8167 (33.979975 s)
+[70] Average acurracy: 0.8166 (34.490117 s)
+[71] Average acurracy: 0.8221 (36.533639 s)
+>>> [71] Best acurracy: 0.8221
+[72] Average acurracy: 0.8183 (35.071345 s)
+[73] Average acurracy: 0.8227 (33.239067 s)
+>>> [73] Best acurracy: 0.8227
+[74] Average acurracy: 0.8209 (33.363156 s)
+[75] Average acurracy: 0.8177 (34.608694 s)
+[76] Average acurracy: 0.8187 (33.862785 s)
+[77] Average acurracy: 0.8178 (34.609025 s)
+[78] Average acurracy: 0.8163 (35.057060 s)
+[79] Average acurracy: 0.8204 (35.548169 s)
+[80] Average acurracy: 0.8233 (35.801285 s)
+>>> [80] Best acurracy: 0.8233
+[81] Average acurracy: 0.8217 (37.462116 s)
+[82] Average acurracy: 0.8221 (35.941836 s)
+[83] Average acurracy: 0.8198 (37.073410 s)
+[84] Average acurracy: 0.8164 (36.737491 s)
+[85] Average acurracy: 0.8196 (37.198599 s)
+[86] Average acurracy: 0.8240 (40.079338 s)
+>>> [86] Best acurracy: 0.8240
+[87] Average acurracy: 0.8233 (41.561615 s)
+[88] Average acurracy: 0.8222 (41.114363 s)
+[89] Average acurracy: 0.8229 (38.239076 s)
+[90] Average acurracy: 0.8224 (134.360398 s)
+[91] Average acurracy: 0.8238 (134.183609 s)
+[92] Average acurracy: 0.8236 (133.708949 s)
+[93] Average acurracy: 0.8265 (136.619360 s)
+>>> [93] Best acurracy: 0.8265
+[94] Average acurracy: 0.8244 (137.325384 s)
+[95] Average acurracy: 0.8233 (180.971489 s)
+[96] Average acurracy: 0.8221 (152.101511 s)
+[97] Average acurracy: 0.8206 (241.252751 s)
+[98] Average acurracy: 0.8240 (244.927343 s)
+[99] Average acurracy: 0.8266 (248.592074 s)
+>>> [99] Best acurracy: 0.8266
+[100] Average acurracy: 0.8244 (248.885122 s)
+[101] Average acurracy: 0.8231 (247.819353 s)
+[102] Average acurracy: 0.8265 (251.735859 s)
+[103] Average acurracy: 0.8308 (251.228378 s)
+>>> [103] Best acurracy: 0.8308
+[104] Average acurracy: 0.8257 (250.978744 s)
+[105] Average acurracy: 0.8250 (254.463076 s)
+[106] Average acurracy: 0.8263 (257.358493 s)
+[107] Average acurracy: 0.8263 (259.566923 s)
+[108] Average acurracy: 0.8260 (263.471167 s)
+[109] Average acurracy: 0.8261 (261.598985 s)
+[110] Average acurracy: 0.8192 (260.419461 s)
+[111] Average acurracy: 0.8272 (267.569894 s)
+[112] Average acurracy: 0.8227 (266.887802 s)
+[113] Average acurracy: 0.8272 (269.062991 s)
+[114] Average acurracy: 0.8285 (273.467596 s)
+[115] Average acurracy: 0.8262 (271.557247 s)
+[116] Average acurracy: 0.8272 (272.287306 s)
+[117] Average acurracy: 0.8280 (271.286457 s)
+[118] Average acurracy: 0.8259 (273.503625 s)
+[119] Average acurracy: 0.8273 (273.291566 s)
+[120] Average acurracy: 0.8286 (275.421459 s)
+[121] Average acurracy: 0.8281 (280.914568 s)
+[122] Average acurracy: 0.8276 (280.682422 s)
+[123] Average acurracy: 0.8264 (283.095563 s)
+[124] Average acurracy: 0.8285 (290.669465 s)
+[125] Average acurracy: 0.8314 (291.384517 s)
+>>> [125] Best acurracy: 0.8314
+[126] Average acurracy: 0.8290 (296.272018 s)
+[127] Average acurracy: 0.8291 (296.065683 s)
+[128] Average acurracy: 0.8301 (295.788463 s)
+[129] Average acurracy: 0.8299 (293.360602 s)
+[130] Average acurracy: 0.8314 (299.525933 s)
+[131] Average acurracy: 0.8326 (301.948257 s)
+>>> [131] Best acurracy: 0.8326
+[132] Average acurracy: 0.8316 (300.659012 s)
+[133] Average acurracy: 0.8297 (299.652357 s)
+[134] Average acurracy: 0.8322 (305.495526 s)
+[135] Average acurracy: 0.8291 (303.296453 s)
+[136] Average acurracy: 0.8272 (309.238652 s)
+[137] Average acurracy: 0.8307 (306.527133 s)
+[138] Average acurracy: 0.8263 (310.448500 s)
+[139] Average acurracy: 0.8295 (304.331673 s)
+[140] Average acurracy: 0.8318 (315.242647 s)
+[141] Average acurracy: 0.8283 (309.148480 s)
+[142] Average acurracy: 0.8300 (318.317639 s)
+[143] Average acurracy: 0.8310 (319.390110 s)
+[144] Average acurracy: 0.8303 (319.898486 s)
+[145] Average acurracy: 0.8290 (323.207666 s)
+[146] Average acurracy: 0.8300 (325.869106 s)
+[147] Average acurracy: 0.8288 (327.874826 s)
+[148] Average acurracy: 0.8304 (326.305378 s)
+[149] Average acurracy: 0.8324 (336.685554 s)
+[150] Average acurracy: 0.8296 (332.575357 s)
+[151] Average acurracy: 0.8305 (333.000305 s)
+[152] Average acurracy: 0.8318 (336.770810 s)
+[153] Average acurracy: 0.8350 (337.885618 s)
+>>> [153] Best acurracy: 0.8350
+[154] Average acurracy: 0.8342 (339.249472 s)
+[155] Average acurracy: 0.8306 (343.736463 s)
+[156] Average acurracy: 0.8292 (338.213879 s)
+[157] Average acurracy: 0.8308 (344.778983 s)
+[158] Average acurracy: 0.8309 (347.890232 s)
+[159] Average acurracy: 0.8302 (349.766075 s)
+[160] Average acurracy: 0.8333 (350.582881 s)
+[161] Average acurracy: 0.8337 (347.664735 s)
+[162] Average acurracy: 0.8330 (351.790395 s)
+[163] Average acurracy: 0.8332 (352.351692 s)
+[164] Average acurracy: 0.8327 (351.559017 s)
+[165] Average acurracy: 0.8322 (356.507954 s)
+[166] Average acurracy: 0.8302 (360.922014 s)
+[167] Average acurracy: 0.8319 (359.823995 s)
+[168] Average acurracy: 0.8347 (367.920098 s)
+[169] Average acurracy: 0.8354 (362.244199 s)
+>>> [169] Best acurracy: 0.8354

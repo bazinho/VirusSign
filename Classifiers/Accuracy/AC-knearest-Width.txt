@@ -1,0 +1,11 @@
+[0] Test acurracy: 0.8877
+[1] Test acurracy: 0.9012
+[2] Test acurracy: 0.9010
+[3] Test acurracy: 0.8868
+[4] Test acurracy: 0.8927
+[5] Test acurracy: 0.8892
+[6] Test acurracy: 0.8831
+[7] Test acurracy: 0.9137
+[8] Test acurracy: 0.9006
+[9] Test acurracy: 0.8924
+Average acurracy: 0.8948

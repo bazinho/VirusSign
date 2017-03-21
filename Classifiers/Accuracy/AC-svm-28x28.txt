@@ -1,0 +1,14 @@
+edmar@deeplearning:~/GIT/Malwares/VirusSign/20Classes/Classifiers$ python svm.py ../ByFamilyImages28x28.pkl 
+Loading dataset from ../ByFamilyImages28x28.pkl ...
+[0] Test acurracy: 0.7588
+[1] Test acurracy: 0.7603
+[2] Test acurracy: 0.7382
+[3] Test acurracy: 0.7096
+[4] Test acurracy: 0.7234
+[5] Test acurracy: 0.7824
+[6] Test acurracy: 0.7443
+[7] Test acurracy: 0.7440
+[8] Test acurracy: 0.7724
+[9] Test acurracy: 0.6733
+Average acurracy: 0.7407
+
