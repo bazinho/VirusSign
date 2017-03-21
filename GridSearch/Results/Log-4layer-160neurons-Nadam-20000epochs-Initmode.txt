@@ -1,0 +1,46 @@
+edmar@deeplearning:~/GIT/Malwares/VirusSign/20Classes/Classifiers/GridSearch$ python -u gridplot-tensoboard-initmode.py ../../ByFamilyImagesWidth.pkl 
+Using TensorFlow backend.
+Loading dataset from ../../ByFamilyImagesWidth.pkl ...
+
+Init mode: uniform
+Train Acc: 1.000000
+Test Acc: 0.850443
+Time: 1065.45s
+
+Init mode: lecun_uniform
+Train Acc: 1.000000
+Test Acc: 0.856355
+Time: 1066.49s
+
+Init mode: normal
+Train Acc: 1.000000
+Test Acc: 0.848867
+Time: 1056.61s
+
+Init mode: zero
+Train Acc: 0.138313
+Test Acc: 0.138128
+Time: 1060.40s
+
+Init mode: glorot_normal
+Train Acc: 1.000000
+Test Acc: 0.865222
+Time: 1069.07s
+
+Init mode: glorot_uniform
+Train Acc: 1.000000
+Test Acc: 0.861675
+Time: 1064.64s
+
+Init mode: he_normal
+Train Acc: 1.000000
+Test Acc: 0.867783
+Time: 1071.59s
+
+Init mode: he_uniform
+Train Acc: 1.000000
+Test Acc: 0.866010
+Time: 1051.97s
+
+Total time: 8506.49s
+

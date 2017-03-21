@@ -1,0 +1,25 @@
+edmar@deeplearning:~/GIT/Malwares/VirusSign/20Classes/Classifiers/GridSearch$ python -u gridplot-tensoboard-layers.py ../../ByFamilyImagesWidth.pkl
+Using TensorFlow backend.
+Loading dataset from ../../ByFamilyImagesWidth.pkl ...
+
+Layers: 1
+Train Acc: 1.000000
+Test Acc: 0.867192
+Time: 929.28s
+
+Layers: 2
+Train Acc: 1.000000
+Test Acc: 0.869360
+Time: 924.58s
+
+Layers: 3
+Train Acc: 1.000000
+Test Acc: 0.873892
+Time: 1084.54s
+
+Layers: 4
+Train Acc: 1.000000
+Test Acc: 0.871133
+Time: 1284.63s
+
+Total time: 4223.23s

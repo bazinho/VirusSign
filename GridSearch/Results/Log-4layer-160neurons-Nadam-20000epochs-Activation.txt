@@ -1,0 +1,45 @@
+edmar@deeplearning:~/GIT/Malwares/VirusSign/20Classes/Classifiers/GridSearch$ python -u gridplot-tensoboard-activation.py ../../ByFamilyImagesWidth.pkl
+Using TensorFlow backend.
+Loading dataset from ../../ByFamilyImagesWidth.pkl ...
+
+Activation: softmax
+Train Acc: 0.868208
+Test Acc: 0.740099
+Time: 1324.06s
+
+Activation: softplus
+Train Acc: 0.997234
+Test Acc: 0.852020
+Time: 1131.47s
+
+Activation: softsign
+Train Acc: 1.000000
+Test Acc: 0.850049
+Time: 1056.33s
+
+Activation: relu
+Train Acc: 0.997827
+Test Acc: 0.838030
+Time: 1121.88s
+
+Activation: tanh
+Train Acc: 1.000000
+Test Acc: 0.847291
+Time: 1061.13s
+
+Activation: sigmoid
+Train Acc: 1.000000
+Test Acc: 0.854187
+Time: 1063.55s
+
+Activation: hard_sigmoid
+Train Acc: 0.927090
+Test Acc: 0.798030
+Time: 1177.23s
+
+Activation: linear
+Train Acc: 0.905552
+Test Acc: 0.787192
+Time: 1033.53s
+
+Total time: 8969.45s

@@ -1,0 +1,108 @@
+edmar@deeplearning:~/GIT/Malwares/VirusSign/20Classes/Classifiers/GridSearch$ python -u gridplot-kfold.py ../../ByFamilyImagesWidth.pkl
+Using TensorFlow backend.
+Loading dataset from ../../ByFamilyImagesWidth.pkl ...
+
+Training fold 1 ...
+Max Accuracy: 0.999561
+Min Loss: 0.007790
+Accuracy: 0.999561
+Loss: 0.007790
+Testing fold 1 ...
+Accuracy: 0.868164
+Loss: 0.968439
+Time: 452.01s
+
+Training fold 2 ...
+Max Accuracy: 0.999671
+Min Loss: 0.006074
+Accuracy: 0.999671
+Loss: 0.006074
+Testing fold 2 ...
+Accuracy: 0.859100
+Loss: 1.063053
+Time: 454.14s
+
+Training fold 3 ...
+Max Accuracy: 0.999671
+Min Loss: 0.004775
+Accuracy: 0.999671
+Loss: 0.004775
+Testing fold 3 ...
+Accuracy: 0.879412
+Loss: 0.877863
+Time: 452.32s
+
+Training fold 4 ...
+Max Accuracy: 0.999671
+Min Loss: 0.004922
+Accuracy: 0.999671
+Loss: 0.004922
+Testing fold 4 ...
+Accuracy: 0.885827
+Loss: 0.893209
+Time: 451.92s
+
+Training fold 5 ...
+Max Accuracy: 0.999452
+Min Loss: 0.009935
+Accuracy: 0.999452
+Loss: 0.009935
+Testing fold 5 ...
+Accuracy: 0.878937
+Loss: 0.902665
+Time: 449.96s
+
+Training fold 6 ...
+Max Accuracy: 0.999562
+Min Loss: 0.007128
+Accuracy: 0.999562
+Loss: 0.007128
+Testing fold 6 ...
+Accuracy: 0.878338
+Loss: 1.006444
+Time: 452.50s
+
+Training fold 7 ...
+Max Accuracy: 0.999452
+Min Loss: 0.009368
+Accuracy: 0.999452
+Loss: 0.009368
+Testing fold 7 ...
+Accuracy: 0.888999
+Loss: 0.809632
+Time: 450.74s
+
+Training fold 8 ...
+Max Accuracy: 0.999671
+Min Loss: 0.005027
+Accuracy: 0.999671
+Loss: 0.005027
+Testing fold 8 ...
+Accuracy: 0.865079
+Loss: 1.090649
+Time: 453.40s
+
+Training fold 9 ...
+Max Accuracy: 0.999562
+Min Loss: 0.006503
+Accuracy: 0.999562
+Loss: 0.006503
+Testing fold 9 ...
+Accuracy: 0.870775
+Loss: 0.753348
+Time: 451.33s
+
+Training fold 10 ...
+Max Accuracy: 0.999562
+Min Loss: 0.007527
+Accuracy: 0.999562
+Loss: 0.007527
+Testing fold 10 ...
+Accuracy: 0.884462
+Loss: 0.826255
+Time: 455.27s
+
+Total time: 4523.61s
+Train Accuracy: 0.999583 (+/- 0.000082)
+Test Accuracy: 0.875909 (+/- 0.009254)
+

@@ -1,0 +1,41 @@
+edmar@deeplearning:~/GIT/Malwares/VirusSign/20Classes/Classifiers/GridSearch$ python -u gridplot-tensoboard-optimizer.py ../../ByFamilyImagesWidth.pkl
+Using TensorFlow backend.
+Loading dataset from ../../ByFamilyImagesWidth.pkl ...
+
+Optimizer: SGD
+Train Acc: 0.138313
+Test Acc: 0.138128
+Time: 1051.59s
+
+Optimizer: RMSprop
+Train Acc: 1.000000
+Test Acc: 0.852020
+Time: 1056.86s
+
+Optimizer: Adagrad
+Train Acc: 0.867418
+Test Acc: 0.806305
+Time: 1055.05s
+
+Optimizer: Adadelta
+Train Acc: 0.993677
+Test Acc: 0.854778
+Time: 1066.08s
+
+Optimizer: Adam
+Train Acc: 0.996246
+Test Acc: 0.826995
+Time: 1060.63s
+
+Optimizer: Adamax
+Train Acc: 1.000000
+Test Acc: 0.842562
+Time: 1048.40s
+
+Optimizer: Nadam
+Train Acc: 1.000000
+Test Acc: 0.851823
+Time: 1063.88s
+
+Total time: 7402.72s
+

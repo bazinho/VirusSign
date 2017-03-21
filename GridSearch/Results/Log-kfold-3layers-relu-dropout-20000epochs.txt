@@ -1,0 +1,58 @@
+edmar@deeplearning:~/GIT/Malwares/VirusSign/20Classes/Classifiers/GridSearch$ python -u gridplot-kfold-3layers-relu-dropout.py ../../ByFamilyImagesWidth.pkl
+Using TensorFlow backend.
+Loading dataset from ../../ByFamilyImagesWidth.pkl ...
+
+Fold 1 ...
+Train Acc: 0.859306
+Test Acc: 0.849609
+Time: 3150.53s
+
+Fold 2 ...
+Train Acc: 0.863836
+Test Acc: 0.842466
+Time: 3187.02s
+
+Fold 3 ...
+Train Acc: 0.840500
+Test Acc: 0.817647
+Time: 3194.32s
+
+Fold 4 ...
+Train Acc: 0.859759
+Test Acc: 0.829724
+Time: 3196.36s
+
+Fold 5 ...
+Train Acc: 0.810855
+Test Acc: 0.817913
+Time: 3190.87s
+
+Fold 6 ...
+Train Acc: 0.834411
+Test Acc: 0.818991
+Time: 3184.15s
+
+Fold 7 ...
+Train Acc: 0.868632
+Test Acc: 0.844400
+Time: 3200.06s
+
+Fold 8 ...
+Train Acc: 0.884969
+Test Acc: 0.836310
+Time: 3169.42s
+
+Fold 9 ...
+Train Acc: 0.873604
+Test Acc: 0.864811
+Time: 3174.04s
+
+Fold 10 ...
+Train Acc: 0.865856
+Test Acc: 0.839641
+Time: 3183.91s
+
+Total time: 31831.04s
+Train Accuracy: 0.856173 (+/- 0.020582)
+Test Accuracy: 0.836151 (+/- 0.014606)
+

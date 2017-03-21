@@ -1,0 +1,12 @@
+edmar@deeplearning:~/GIT/Malwares/VirusSign/20Classes/Classifiers/GridSearch$ python -u gridplot-tensoboard-convlayers.py ../../ByFamilyImages28x28.pkl
+Using TensorFlow backend.
+Loading dataset from ../../ByFamilyImages28x28.pkl ...
+
+Conv Layers: 1
+Dense Layers: 1
+
+Train Acc: 1.000000
+Test Acc: 0.871330
+Time: 101295.37s
+
+Total time: 101295.50s

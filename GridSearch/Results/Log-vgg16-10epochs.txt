@@ -1,0 +1,32 @@
+edmar@deeplearning:~/GIT/Malwares/VirusSign/20Classes/Classifiers/GridSearch$ python -u gridplot-tensoboard-vgg16.py ../../ByFamilyImages224x224.pkl
+Using TensorFlow backend.
+Loading dataset from ../../ByFamilyImages224x224.pkl ...
+
+Loading time: 755.12s
+
+Building VGG16 model ...
+Train on 5061 samples, validate on 5075 samples
+Epoch 1/10
+5061/5061 [==============================] - 4834s - loss: 13.8464 - acc: 0.1377 - val_loss: 13.8917 - val_acc: 0.1381
+Epoch 2/10
+5061/5061 [==============================] - 4868s - loss: 13.8888 - acc: 0.1383 - val_loss: 13.8917 - val_acc: 0.1381
+Epoch 3/10
+5061/5061 [==============================] - 4873s - loss: 13.8888 - acc: 0.1383 - val_loss: 13.8917 - val_acc: 0.1381
+Epoch 4/10
+5061/5061 [==============================] - 4879s - loss: 13.8888 - acc: 0.1383 - val_loss: 13.8917 - val_acc: 0.1381
+Epoch 5/10
+5061/5061 [==============================] - 4884s - loss: 13.8888 - acc: 0.1383 - val_loss: 13.8917 - val_acc: 0.1381
+Epoch 6/10
+5061/5061 [==============================] - 4888s - loss: 13.8888 - acc: 0.1383 - val_loss: 13.8917 - val_acc: 0.1381
+Epoch 7/10
+5061/5061 [==============================] - 4890s - loss: 13.8888 - acc: 0.1383 - val_loss: 13.8917 - val_acc: 0.1381
+Epoch 8/10
+5061/5061 [==============================] - 4893s - loss: 13.8888 - acc: 0.1383 - val_loss: 13.8917 - val_acc: 0.1381
+Epoch 9/10
+5061/5061 [==============================] - 4895s - loss: 13.8888 - acc: 0.1383 - val_loss: 13.8917 - val_acc: 0.1381
+Epoch 10/10
+5061/5061 [==============================] - 4899s - loss: 13.8888 - acc: 0.1383 - val_loss: 13.8917 - val_acc: 0.1381
+Train Acc: 0.138313
+Test Acc: 0.138128
+
+Total time: 48818.77s

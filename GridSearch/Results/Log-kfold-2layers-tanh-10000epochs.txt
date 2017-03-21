@@ -1,0 +1,58 @@
+edmar@deeplearning:~/GIT/Malwares/VirusSign/20Classes/Classifiers/GridSearch$ python -u gridplot-kfold2-2layers-tanh.py ../../ByFamilyImagesWidth.pkl
+Using TensorFlow backend.
+Loading dataset from ../../ByFamilyImagesWidth.pkl ...
+
+Fold 1 ...
+Train Acc: 0.999781
+Test Acc: 0.900391
+Time: 1390.72s
+
+Fold 2 ...
+Train Acc: 0.999890
+Test Acc: 0.878669
+Time: 1355.28s
+
+Fold 3 ...
+Train Acc: 0.999781
+Test Acc: 0.893137
+Time: 1334.53s
+
+Fold 4 ...
+Train Acc: 0.999781
+Test Acc: 0.893701
+Time: 1324.06s
+
+Fold 5 ...
+Train Acc: 0.999890
+Test Acc: 0.894685
+Time: 1323.88s
+
+Fold 6 ...
+Train Acc: 0.999781
+Test Acc: 0.890208
+Time: 1331.32s
+
+Fold 7 ...
+Train Acc: 0.999781
+Test Acc: 0.892963
+Time: 1334.09s
+
+Fold 8 ...
+Train Acc: 0.999781
+Test Acc: 0.901786
+Time: 1332.26s
+
+Fold 9 ...
+Train Acc: 0.999781
+Test Acc: 0.905567
+Time: 1337.43s
+
+Fold 10 ...
+Train Acc: 0.999671
+Test Acc: 0.898406
+Time: 1334.12s
+
+Total time: 13397.97s
+Train Accuracy: 0.999792 (+/- 0.000059)
+Test Accuracy: 0.894951 (+/- 0.007053)
+
